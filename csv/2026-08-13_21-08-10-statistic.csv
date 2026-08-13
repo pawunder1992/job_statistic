@@ -1,0 +1,59 @@
+﻿title,company_name,experience,skills
+AI Automation engineer,Bluegeko,2,"Python, PostgreSQL, Docker, Marketing, AWS, Engineering, Backend development, Google Cloud Platform, Marketing automation, Playwright, AI integration"
+"Python, Computer Vision Developer",STL,1,"Java, Git, GitHub, Python, C++, Docker, Machine learning, OpenCV, PyTorch, Computer vision"
+"Спеціаліст з дослідження даних, Data scientist у Глобине","Глобино, ГК",0,"SQL, Python, Oracle Database, Oracle SQL Developer, PL/SQL, Machine learning"
+"Інженер-програміст БПЛА, військовослужбовець",9 бригада безпілотних систем,1,"Java, Python, C++"
+Python-розробник,"Костенко Д.Р., ФОП",0,"CSS, JavaScript, HTML, MySQL, SQL, Git, Python, PostgreSQL, Telegram API, Docker, Django, Django Rest Framework, REST API, REST, Redis, Flask, FastAPI"
+"Senior Go, Python engineer for self-healing Android device infrastructure",TPE,5,"Python, IP (Internet Protocol), MS Access, Android Debug Bridge, Next.js, Playwright, QA Automation"
+"AI, ML Engineer","Ахіллес (СБС), 429 ОБ БпС",2,"Python, Docker, TensorFlow, Machine learning, CI/CD, PyTorch, Prompt, LangChain, Rag"
+Computer Vision Researcher (copters),Frontline Robotics,2,
+Python-програміст,"Танграм, група компаній",2,"CSS, JavaScript, HTML, PHP, MySQL, SQL, Git, Python, React, MongoDB, Node.js, Django, Flask, FastAPI, Machine learning"
+"Middle Python-розробник (Odoo, ERP)","Перший, ломбард, ПТ",2,"JavaScript, SQL, Git, Python, PostgreSQL, XML, JSON, REST API, REST, ORM, Odoo"
+Python Software Engineer,Synthetic,1,
+"Викладач програмування в ІТ-школу (Python, Scratch)","Logika, школа програмування та англійської мови для дiтей",0,"Python, Scratch"
+Спеціаліст з автоматизації бізнес-процесів,"Агропродсервіс, ПАП",2,Python
+Python Developer (Odoo),Товариство Червоного Хреста України,2,"CSS, JavaScript, HTML, Git, Python, PostgreSQL, Docker, REST API, Kubernetes, Odoo, CI/CD, gRPC"
+Python developer,Noxon,1,"Python, Node.js, Grafana, Prometheus, SOLID Principles, Blockchain, EVM"
+"Програміст Odoo (Python, ERP)",Аттал,1,"SQL, Python, PostgreSQL, Odoo"
+Розробник Odoo,"Ейрлоджикс, ТОВ",2,"Odoo, Python, SQL, Jira, Slack, Confluence"
+Інженер-програміст БПЛА,"SkyFall, Батарея зенітних БпАК (Військова частина 3027 НГУ)",5,"Python, C++, ArduPilot, Betaflight"
+Інженер-програміст БПЛА,"Буревій, 1 Президентська бригада оперативного призначення НГУ",1,"Python, C++, ArduPilot, Betaflight, YOLO, Raspberry Pi, QGroundControl, Mission Planner, Ubuntu"
+Odoo Developer,Генерал Черешня,2,
+Embedded-розробник,Lira,2,"Git, Python, C++, MikroTik, VLAN, C/C++"
+"Data Analyst (SQL, Python)","Є гроші, фінансова компанія, ТОВ",1,"MS Excel, SQL, Python, PostgreSQL, Google Sheets, Looker Studio, MS Power BI, Power Query"
+AI Product Engineer,Ader Haber,1,"SQL, Git, JavaScript, Python, PostgreSQL, React, Node.js, Docker, TypeScript, REST API, REST, AWS, FastAPI, Google Cloud Platform, Next.js, CI/CD, OpenAI, LangChain, Rag, Claude API, MS Azure, SDK"
+"Software Developer (Middle, Senior)",NDA Recruitment,2,"C++, Python, Welding of embedded products"
+Middle FullStack (Python) Developer,Nix,2,"JavaScript, GitHub, Python, PostgreSQL, React, Agile, Docker, TypeScript, REST API, REST, Flask, AWS, NoSQL, PyTest, FastAPI, CI/CD, GitHub Actions"
+Backend Infrastructure Software Engineer,6 центр рекрутингу Сил безпілотних систем,1,"Java, MySQL, Python, C++, PostgreSQL, JSON, Docker, TCP/IP, REST API, REST, Redis, RabbitMQ, Kubernetes, Apache Kafka, CI/CD, gRPC"
+"Trainee, Junior, Middle Python Developer",Інсайдери,0,"MySQL, Git, Python, PostgreSQL, Django, Django Rest Framework"
+"Викладач програмування, геймдизайну, графічного дизайну (Python, Unity, Roblox, Scratch)",Mindlane s.r.o.,0,"Adobe Photoshop, Adobe Illustrator, Figma, JavaScript, Java, PHP, Canva, Python, C++, C#, Unity, Scratch, Roblox"
+"Middle, Senior Python Developer",Інсайдери,1,"MySQL, Git, PostgreSQL, Docker, Django, Django Rest Framework, REST, AWS, Celery, MS Azure, asyncio, Google Cloud Platform, SOLID Principles, CI/CD"
+Middle Python Developer,UncleSolutions,2,"Git, Python, PostgreSQL, MongoDB, Docker, Django, REST API, REST, Flask, FastAPI"
+"Викладач онлайн-курсу Python, AI-інструменти для підлітків","Junior IT, школа программирования для детей",2,"Cursor, Cursor Chat / Agent, Claude, Claude Code, Claude API, No, Python, Git, GitHub"
+"Програміст (Opencart, Python)",Nadel,1,"CSS, JavaScript, HTML, PHP, MySQL, Git, OpenCart, Docker, REST API, Python, REST"
+"Python developer (Django, FastAPI)",UncleSolutions,1,"Python, PostgreSQL, MongoDB, Django, REST API, REST, AWS, FastAPI, SOLID Principles"
+"Викладач онлайн-курсу ""AI-розробник з Python"" для підлітків","Junior IT, школа программирования для детей",2,"Git, GitHub, Python, JSON, Google Meet, Telegram API, SQLite, Claude API"
+Python-розробник,6 центр рекрутингу Сил безпілотних систем,2,"CSS, HTML, JavaScript, Python, PostgreSQL, TypeScript, Odoo"
+"Backend Developer, військовослужбовець (Python/Odoo, центр логістичних рішень)","Хартія, 13-та БрОП НГУ",2,"Git, Python, PostgreSQL, XML, Docker, REST, ORM, SQLAlchemy, Odoo, CSV"
+"Інженер-програміст, військовослужбовець",17 Полтавська бригада Національної гвардії України,1,Python
+"Викладач Python-, WEB-програмування (онлайн)","Junior IT, школа программирования для детей",1,Python
+Python Developer (AI/ML Integration),АТБ-маркет,2,
+"AQA Engineer Python (middle, РПЗМ)",Дія,1,
+"Senior, Principal ML Systems Architect (TensorFlow, Python)","Актуальна Механіка, ІК",5,"Python, Docker, TensorFlow, FastAPI, Kubernetes, GitLab, Grafana, ONNX Runtime, OpenTelemetry"
+Розробник,Дослідження та Розвиток,1,"Python, Claude API"
+"Python Full-stack Developer (FastAPI, React)",Buyo,1,"Git, GitHub, Jira, Python, PostgreSQL, SASS, React, React Router, React Hooks, React Redux, JSON, Google Sheets, Google API, Redux, Redux Toolkit, Telegram API, Docker, TypeScript, REST API, REST, Redis, Axios, SQLAlchemy, Material UI, Grafana, asyncio, FastAPI, Prometheus, Aiohttp, Vite.js, CI/CD, Pydantic, Alembic, APScheduler"
+Junior Backend Developer,Codefather,1,"Git, Python, PostgreSQL, MongoDB, Docker, HTTP, REST, Redis, SQLAlchemy, FastAPI, Alembic, RabbitMQ"
+"Middle Backend Developer (Python, FastAPI)",Codefather,1,"SQL, Git, GitHub, GitLab, Python, PostgreSQL, JSON, MongoDB, Docker, HTTP, REST API, REST, Redis, RabbitMQ, ORM, Celery, SQLAlchemy, WebSocket, Grafana, PyTest, asyncio, FastAPI, Prometheus, CI/CD, GitHub Actions, Blockchain"
+"Junior Python Developer (AI, Django, API, Automation, Bots, Scrapers)","Мельник О.І., ФОП (IT-компанія)",1,"Python, Django, Selenium, Scrapy, Beautiful Soup, Playwright, REST API"
+"Вчитель програмування для дітей (HTML, CSS, JavaScript, Python)",Algoritm Delta,0,
+"Senior Odoo, Python-інженер",SummitFlux,2,
+Python developer,Рахівський РТЦК та СП,1,"CSS, HTML, MySQL, GitHub, GitLab, JavaScript, Python, Docker"
+"Викладач програмування (Python, Unity 2D, 3D, C++)","Розумне Майбутнє, благодійна школа, БФ",1,"Python, C++, C#, Unity"
+Python Developer/AI Software Engineer,Aeoncodes,1,"JavaScript, Python, Web Scraping, Claude API"
+"Product-менеджер, Python Developer",MagneticOne Municipal Technologies,1,"CSS, MS Excel, Java, HTML, PHP, Python, XML, JSON, Google Sheets, Google API, Google Cloud Platform, Postman, REST API, REST, pandas, NumPy, CSV"
+"C++, Python Developer","Агропром, ТОВ",1,"JavaScript, Git, Jira, Python, C++, Node.js, Docker, TypeScript, pandas, NumPy, TensorFlow, SPI, PyTorch, ArduPilot"
+Linux Engineer (Embedded),RoGuard Systems,2,"Python, C++, Docker, ArduPilot"
+"Senior Full‑Stack Developer (Python, Django, React, Amazon SP‑API)","Туровська О.М., ФОП",5,"Python, PostgreSQL, React, Docker, TypeScript, Django, Django Rest Framework, REST, Redis, AWS, Celery, CI/CD"
+"AI, Python Engineer",ArmDrones,1,"GitHub, Python, C++"
+Python Developer,Devpower,2,
+"Senior Fullstack developer (Python, React)",Mirko,2,"CSS, JavaScript, Python, React, React Redux, Redux, Docker, AWS, MS Azure, Kubernetes, Google Cloud Platform, CI/CD, CSS Modules"
