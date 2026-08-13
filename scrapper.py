@@ -1,6 +1,4 @@
 import asyncio
-import csv
-from datetime import datetime
 
 import aiohttp
 from parsel import Selector
@@ -26,7 +24,7 @@ async def get_selector(url: str) -> Selector | None:
             return None
 
 
-async def fetch_jobs(url=PYTHON_URL):
+async def fetch_jobs(url: str=PYTHON_URL) -> list[dict[str, str]]:
     selector = await get_selector(url)
     job_links = selector.css("h2.my-0 a::attr(href)").getall()
     job_tasks = [fetch_single_job(BASE_URL + link) for link in job_links]
@@ -39,7 +37,7 @@ async def fetch_jobs(url=PYTHON_URL):
     return data
 
 
-async def fetch_single_job(url):
+async def fetch_single_job(url: str) -> dict[str, str]:
     selector = await get_selector(url)
 
     skills_elements = selector.css("div.sm\\:mt-xl.flex-wrap ul li ::text")
@@ -61,22 +59,6 @@ async def fetch_single_job(url):
         "title": title,
         "company_name": company_name,
         "experience": int(experience),
-        "skills": "".join(skills)
+        "skills": skills
     }
     return job_item
-
-
-async def main():
-    all_jobs = await fetch_jobs()
-    now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    base_fields = ['title', 'company_name', 'experience', 'skills']
-    with open(f"csv/{now}-statistic.csv", "w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=base_fields, restval=0)
-        writer.writeheader()
-        for job in all_jobs:
-            writer.writerow(job)
-
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
